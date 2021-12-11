@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Upload</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_not_granted">App requires access to storage to access items stored in MediaStore.</string>
+</resources>
